@@ -1,0 +1,14 @@
+.menu1{
+    background-color: #030053;
+}
+
+.login-bg{
+
+height: 100vh;
+background: rgb(3,0,83);
+background: linear-gradient(148deg, rgba(3,0,83,1) 0%, rgba(3,0,83,1) 39%, rgba(0,85,173,1) 100%);
+}
+
+.login-cont{
+    width: 400px;
+}
